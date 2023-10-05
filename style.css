@@ -54,3 +54,8 @@ h6 {
     padding-top: 960px;
     text-align: center;
 }
+
+h2{
+    padding-left: 10px;
+    border-left: #1fb159 20px solid;
+}
